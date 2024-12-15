@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Government data catalog with AI](https://github.com/NarMadat/data_catalog_ai)
 
-- 🌱 I’m currently learning **DevOps courses**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **Vue.js, Express.js, React, Java**
+- 💬 Ask me about **Vue.js, Node.js, Java**
 
 - 📫 How to reach me **narmadatian@gmail.com**
 
