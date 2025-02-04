@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narek</h1>
 <h3 align="center">Junior Software Engineer</h3>
 
-- 🔭 I’m currently working on [Government data catalog with AI](https://github.com/NarMadat/data_catalog_ai)
+- 🔭 I’m currently working on [Data Scraping Automation System (DSAS)]
 
 - 🌱 I’m currently learning **AWS and Nest.js**
 
