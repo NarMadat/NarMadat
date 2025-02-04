@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Narek</h1>
 <h3 align="center">Junior Software Engineer</h3>
 
-- 🔭 I’m currently working on [Data Scraping Automation System (DSAS)](private code)
+- 🔭 I’m currently working on Data Scraping Automation System (DSAS) (private code)
 
 - 🌱 I’m currently learning **AWS and Nest.js**
-
-- 💬 Ask me about **Vue.js, Node.js, Java**
 
 - 📫 How to reach me **narmadatian@gmail.com**
 
