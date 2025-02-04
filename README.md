@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Government data catalog with AI](https://github.com/NarMadat/data_catalog_ai)
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS and Nest.js**
 
 - 💬 Ask me about **Vue.js, Node.js, Java**
 
