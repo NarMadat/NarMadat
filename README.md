@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on the development of the "Owning Car" system<br><br>🌱 I’m currently learning AWS and Nest.js<br><br>📫 How to reach me - narmadatian@gmail.com<br><br>📅 Let’s [schedule a meeting](https://cal.com/narek-madatian/15min) — just pick a time that suits you!
+# About Me:
+🔭 I’m currently working on the development of the "Owning Car" system for Ministry of Internal Affairs<br><br>🌱 I’m currently learning AWS and Nest.js<br><br>📫 How to reach me - narmadatian@gmail.com<br><br>📅 Let’s [schedule a meeting](https://cal.com/narek-madatian/15min) — just pick a time that suits you!
 
 
 ## 🌐 Socials:
